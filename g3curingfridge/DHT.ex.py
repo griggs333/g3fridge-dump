@@ -13,7 +13,7 @@ import gspread
 
 # Account details for google docs
 email       = 'griggs333@gmail.com'
-password    = 'mniIM333'
+# password    = '******' removed for privacy
 spreadsheet = 'TempLog'
 
 # ===========================================================================
