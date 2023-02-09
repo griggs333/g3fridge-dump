@@ -1,4 +1,4 @@
-DumpRepo
+g3fridge-dump
 ========
 
-test quick dump
+Data dump for curing fridge code
