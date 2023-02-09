@@ -15,7 +15,7 @@ io.setmode(io.BCM)
 
 # Account details for google docs
 email       = 'g3rasppi@gmail.com'
-password    = 'yoo3hooo'
+# password    = '*****' removed for privacy
 spreadsheet = 'TempLog'
 errorsheet  = 'Errors'
 
